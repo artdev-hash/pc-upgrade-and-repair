@@ -2,7 +2,7 @@ import { getPosts, getPostLength } from "./theme/serverUtils";
 
 async function config() {
   return {
-
+    base: '/pc-upgrade-and-repair/',
     lang: "en-US",
     title: "👓",
     logo: "pcnerd.ico",

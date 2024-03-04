@@ -67,11 +67,11 @@ async function config() {
           link: "/archives",
         },
         {
-          text: "👨‍💻 Developer",
+          text: "<👨‍💻 Developer />",
           link: "/dev",
         },
         {
-          text: "📦 ETC",
+          text: "<📦 ETC />",
           link: "/work",
         }
       ],
